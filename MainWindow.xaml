@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:YouTubeDownloaderInterface"
         mc:Ignorable="d"
-        Title="Better YouTube Download for Luke" Height="450" Width="800" ResizeMode="NoResize">
+        Title="Better YouTube Download for Luc" Height="450" Width="800" ResizeMode="NoResize">
     <Grid Background="#FF1B1B1B">
         <TextBox HorizontalAlignment="Left" Margin="10,36,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="370" Height="22" TextChanged="TextBox_TextChanged" Name="youtubelink"/>
         <CheckBox Content="Audio Only" HorizontalAlignment="Left" Margin="385,36,0,0" VerticalAlignment="Top" Foreground="White" Height="22" Width="85" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
